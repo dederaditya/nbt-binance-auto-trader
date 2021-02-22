@@ -1,6 +1,6 @@
 <h1 align="center">NBT Binance Auto Trader</h1>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jsappme/nbt-binance-auto-trader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dederaditya/nbt-binance-auto-trader/edit/master/README.md)
 
 <h6 align="center">Version 0.2.4</h6>
 
